@@ -57,13 +57,15 @@ Kubernetes deployment of a containerized Flask API with a MongoDB StatefulSet �
 
 ## Experience
 
-**Software Development Intern** — TNC Group (Software Persona) · *[dates]*
-Completed a full-stack development program (Figma, JavaScript, Flutter, SQL). Built a Flutter catalog app, a React/Vite/Tailwind CRUD tracker deployed on Vercel, and a SQL Server database project with Docker.
+**Software Development Intern** — TNC Group (Software Persona) · *Jun 15 – Jul 20, 2026*
+Completed a professional development program covering Database & SQL, JavaScript web development, UI/UX design in Figma, and Android/iOS mobile development. Delivered a capstone software project spanning interface design, web development, database creation, and mobile app design.
 
-**Architecture Intern** — TNC Group (Arch of Sigma) · *[dates]*
-Architecture-focused internship track within TNC Group.
+**Information Technologies Intern** — Arch of Sigma (TNC Group) · *Mar 9 – Apr 20, 2026*
+Completed applied training in Excel, AutoCAD, Python, and Blender, then delivered an integrated capstone project combining data processing/analysis, technical CAD drawing, basic Python automation, and 3D modeling.
 
 ---
+
+## Certifications
 
 | Certification | Issuer | Verify |
 |---|---|---|
