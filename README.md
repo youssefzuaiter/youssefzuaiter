@@ -1,4 +1,4 @@
-# Hi, I'm Youssef 👋
+# I'm Youssef Zuaiter 👋
 
 ### AI Engineering Student · Bahçeşehir University, Istanbul
 
