@@ -84,11 +84,6 @@ Completed applied training in Excel, AutoCAD, Python, and Blender, then delivere
 
 ---
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefzuaiter&layout=compact&theme=tokyonight&hide_border=true" />
-
----
 
 ## Contact
 
