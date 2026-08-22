@@ -55,15 +55,23 @@ Kubernetes deployment of a containerized Flask API with a MongoDB StatefulSet �
 
 ---
 
-## Certifications
+## Experience
 
-| Area | Issuer |
-|---|---|
-| Machine Learning / Deep Learning | IBM |
-| AI & Deep Learning Specialization | Stanford / DeepLearning.AI |
-| Explainable AI (XAI) | Vanderbilt University |
-| AI Agents | Duke University |
-| Cybersecurity | Google |
+**Software Development Intern** — TNC Group (Software Persona) · *[dates]*
+Completed a full-stack development program (Figma, JavaScript, Flutter, SQL). Built a Flutter catalog app, a React/Vite/Tailwind CRUD tracker deployed on Vercel, and a SQL Server database project with Docker.
+
+**Architecture Intern** — TNC Group (Arch of Sigma) · *[dates]*
+Architecture-focused internship track within TNC Group.
+
+---
+
+| Certification | Issuer | Verify |
+|---|---|---|
+| Machine Learning Specialization | Stanford / DeepLearning.AI (Andrew Ng) | [Verify](https://coursera.org/verify/specialization/3OCW46E1WZL1) |
+| IBM Machine Learning Professional Certificate | IBM | [Verify](https://coursera.org/verify/professional-cert/19005TYSVHZN) |
+| Deep Learning with PyTorch, Keras and TensorFlow | IBM | [Verify](https://coursera.org/verify/professional-cert/ERCJROIG8EVW) |
+| Explainable AI (XAI) Specialization | Duke University | [Verify](https://coursera.org/verify/specialization/XCAC0MA646FZ) |
+| Google Cybersecurity Professional Certificate | Google | [Verify](https://coursera.org/verify/professional-cert/75QSJE2KS1SP) |
 
 ---
 
