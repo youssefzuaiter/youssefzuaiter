@@ -11,11 +11,13 @@ I build privacy-preserving ML systems, computer vision models, and embedded AI �
 
 ## About Me
 
-3rd-year AI Engineering student with hands-on experience across the ML stack — from differential-privacy math to Arduino sensor fusion. Two internships with TNC Group (architecture + software development), and certifications from IBM, Stanford/DeepLearning.AI, Vanderbilt, Duke, and Google.
+AI Engineering student at Bahçeşehir University specializing in differential privacy and computer vision. My primary research project, NeuroLink, applies formal differential privacy guarantees to a multi-stream autoencoder architecture and has been published as a CVPR-format paper.
 
-- 🔭 Currently seeking an AI-focused internship (Summer 2026)
-- 🧠 Focused on privacy-preserving ML, computer vision, and explainable AI
+- 🔭 Currently in an AI-focused internship at Software Persona — data collection, preprocessing, model development, and testing for AI/data science projects
+- 🧠 Focus areas: AI agents, automation, and large-scale cloud infrastructure
 - 📄 Author of a CVPR-format paper on privacy-preserving keystroke dynamics
+- 🎓 62 professional certifications spanning ML, explainable AI, and cybersecurity (Google, IBM, Stanford/DeepLearning.AI, Vanderbilt, Duke)
+- 💼 Seeking opportunities in AI/ML engineering and research
 
 ---
 
@@ -46,7 +48,7 @@ Dual-pathway network combining FFT phase-aware and CBAM spatial attention — 93
 `PyTorch` · `Computer Vision`
 
 ### 🔐 [Smart Face Recognition Access System](https://github.com/youssefzuaiter/Smart-Face-Recognition-Access-System)
-Arduino-based LBPH pipeline with ultrasonic, NFC, IR remote, and relay integration.
+Arduino-based LBPH pipeline with ultrasonic, NFC, IR remote, and relay integration. Built as a 4-person team project.
 `Python` · `OpenCV` · `Embedded Systems`
 
 ### ☸️ [Scalable API Orchestration (Flask + MongoDB Cluster)](https://github.com/youssefzuaiter/Scalable-API-Orchestration-High-Availability-Flask-MongoDB-Cluster)
@@ -57,8 +59,11 @@ Kubernetes deployment of a containerized Flask API with a MongoDB StatefulSet �
 
 ## Experience
 
+**AI Intern** — Software Persona (TNC Group) · *Current*
+Working on data collection, preprocessing, model development, and testing for AI/data science projects.
+
 **Software Development Intern** — TNC Group (Software Persona) · *Jun 15 – Jul 20, 2026*
-Completed a professional development program covering Database & SQL, JavaScript web development, UI/UX design in Figma, and Android/iOS mobile development. Delivered a capstone software project spanning interface design, web development, database creation, and mobile app design.
+Delivered a client e-commerce platform with an integrated AI assistant, from design through deployment. Program covered Database & SQL, JavaScript web development, UI/UX design in Figma, and Android/iOS mobile development.
 
 **Information Technologies Intern** — Arch of Sigma (TNC Group) · *Mar 9 – Apr 20, 2026*
 Completed applied training in Excel, AutoCAD, Python, and Blender, then delivered an integrated capstone project combining data processing/analysis, technical CAD drawing, basic Python automation, and 3D modeling.
@@ -66,6 +71,8 @@ Completed applied training in Excel, AutoCAD, Python, and Blender, then delivere
 ---
 
 ## Certifications
+
+62 professional certifications spanning ML, explainable AI, and cybersecurity. Five flagship ones below — verifiable on Coursera:
 
 | Certification | Issuer | Verify |
 |---|---|---|
@@ -76,6 +83,10 @@ Completed applied training in Excel, AutoCAD, Python, and Blender, then delivere
 | Google Cybersecurity Professional Certificate | Google | [Verify](https://coursera.org/verify/professional-cert/75QSJE2KS1SP) |
 
 ---
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefzuaiter&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
