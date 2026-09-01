@@ -61,7 +61,7 @@ Kubernetes deployment of a containerized Flask API with a MongoDB StatefulSet �
 
 ---
 
-## Experience
+## 🛠️ Experience 
 
 **AI Intern** — Software Persona (TNC Group) · *Current*
 Working on data collection, preprocessing, model development, and testing for AI/data science projects.
@@ -74,9 +74,9 @@ Completed applied training in Excel, AutoCAD, Python, and Blender, then delivere
 
 ---
 
-## Certifications
+## ⚙️ Certificates
 
-62 professional certifications spanning ML, explainable AI, and cybersecurity. Five flagship ones below — verifiable on Coursera:
+62 professional certificates spanning ML, explainable AI, and cybersecurity. Five flagship ones below — verifiable on Coursera:
 
 | Certificates | Issuer | Verify |
 |---|---|---|
