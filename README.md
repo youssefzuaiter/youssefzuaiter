@@ -1,41 +1,39 @@
-# I'm Youssef Zuaiter 👋
+<p align="center">
+  <a href="https://github.com/youssefzuaiter">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=890&text=Hello%20I'm%20Youssef%20Zuaiter" alt="Hello I&#39;m Youssef Zuaiter" />
+  </a>
+</p>
 
-### AI Engineering Student · Bahçeşehir University, Istanbul
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=430&height=44&lines=AI%20Engineer;just%20trying%20to%20be%20creative" alt="Typing headlines" />
+</p>
 
-I build privacy-preserving ML systems, computer vision models, and embedded AI — from math to deployed pipeline.
+### 🚀 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-zuaiter/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.zuaiter2005@gmail.com)
+AI Engineering student at Bahçeşehir University, based between Turkey and Israel. Currently interning at Software Persona on AI/data science work ,data collection, preprocessing, model development, testing. Looking for an internship or junior role to apply what I've learned, working toward certifications from Anthropic, Google, and Meta, and planning to pursue a master's down the line.
 
----
+🔭 &nbsp;I'm currently working on **My own Personal Finance Website.**  
+🌱 &nbsp;I'm currently learning **3D Printing , IoT , Computer Vision.**  
+👯 &nbsp;I'm looking to collaborate on **Open-source developer tools.**  
+🤔 &nbsp;I'm looking for help with **Getting Data for my NeoruLink Project.**
 
-## About Me
+### 🛠️ Tech Stack
 
-AI Engineering student at Bahçeşehir University specializing in differential privacy and computer vision. My primary research project, NeuroLink, applies formal differential privacy guarantees to a multi-stream autoencoder architecture and has been published as a CVPR-format paper.
-
-- 🔭 Currently in an AI-focused internship at Software Persona — data collection, preprocessing, model development, and testing for AI/data science projects
-- 🧠 Focus areas: AI agents, automation, and large-scale cloud infrastructure
-- 📄 Author of a CVPR-format paper on privacy-preserving keystroke dynamics
-- 🎓 62 professional certifications spanning ML, explainable AI, and cybersecurity (Google, IBM, Stanford/DeepLearning.AI, Vanderbilt, Duke)
-- 💼 Seeking opportunities in AI/ML engineering and research
-
----
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
 ## Featured Projects
 
@@ -74,7 +72,7 @@ Completed applied training in Excel, AutoCAD, Python, and Blender, then delivere
 
 62 professional certifications spanning ML, explainable AI, and cybersecurity. Five flagship ones below — verifiable on Coursera:
 
-| Certification | Issuer | Verify |
+| Certificates | Issuer | Verify |
 |---|---|---|
 | Machine Learning Specialization | Stanford / DeepLearning.AI (Andrew Ng) | [Verify](https://coursera.org/verify/specialization/3OCW46E1WZL1) |
 | IBM Machine Learning Professional Certificate | IBM | [Verify](https://coursera.org/verify/professional-cert/19005TYSVHZN) |
