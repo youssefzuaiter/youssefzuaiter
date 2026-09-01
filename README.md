@@ -35,6 +35,12 @@ AI Engineering student at Bahçeşehir University, based between Turkey and Isra
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=youssefzuaiter&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
 ## Featured Projects
 
 ### 🧠 [NeuroLink](https://github.com/youssefzuaiter/NeuroLink)
