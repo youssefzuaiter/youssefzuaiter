@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/youssefzuaiter">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=890&text=Hello%20I'm%20Youssef%20Zuaiter" alt="Hello I&#39;m Youssef Zuaiter" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=d29922&fontSize=54&height=90&width=890&text=Hello%20I'm%20Youssef%20Zuaiter" alt="Hello I&#39;m Youssef Zuaiter" />
   </a>
 </p>
 
