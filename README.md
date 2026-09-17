@@ -15,7 +15,7 @@ AI Engineering student at Bahçeşehir University, based between Turkey and Isra
 🔭 &nbsp;I'm currently working on **My own Personal Finance Website.**  
 🌱 &nbsp;I'm currently learning **3D Printing , IoT , Computer Vision.**  
 👯 &nbsp;I'm looking to collaborate on **Open-source developer tools.**  
-🤔 &nbsp;I'm looking for help with **Getting Data for my NeoroLink Project.**
+🤔 &nbsp;I'm looking for help with **Getting Data for my NeuroLink Project.**
 
 ### 🛠️ Tech Stack
 
