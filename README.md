@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/youssefzuaiter">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=890&text=Hello%20I'm%20Youssef%20Zuaiter" alt="Hello I&#39;m Youssef Zuaiter" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=d29922&fontSize=54&height=90&width=890&text=Hello%20I'm%20Youssef%20Zuaiter" alt="Hello I&#39;m Youssef Zuaiter" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@ AI Engineering student at Bahçeşehir University, based between Turkey and Isra
 🔭 &nbsp;I'm currently working on **My own Personal Finance Website.**  
 🌱 &nbsp;I'm currently learning **3D Printing , IoT , Computer Vision.**  
 👯 &nbsp;I'm looking to collaborate on **Open-source developer tools.**  
-🤔 &nbsp;I'm looking for help with **Getting Data for my NeoruLink Project.**
+🤔 &nbsp;I'm looking for help with **Getting Data for my NeuroLink Project.**
 
 ### 🛠️ Tech Stack
 
@@ -55,7 +55,7 @@ Kubernetes deployment of a containerized Flask API with a MongoDB StatefulSet �
 
 ---
 
-## Experience
+## 📚 Experience 
 
 **AI Intern** — Software Persona (TNC Group) · *Current*
 Working on data collection, preprocessing, model development, and testing for AI/data science projects.
@@ -68,9 +68,9 @@ Completed applied training in Excel, AutoCAD, Python, and Blender, then delivere
 
 ---
 
-## Certifications
+## ⚙️ Certificates
 
-62 professional certifications spanning ML, explainable AI, and cybersecurity. Five flagship ones below — verifiable on Coursera:
+62 professional certificates spanning ML, explainable AI, and cybersecurity. Five flagship ones below — verifiable on Coursera:
 
 | Certificates | Issuer | Verify |
 |---|---|---|
@@ -88,3 +88,4 @@ Completed applied training in Excel, AutoCAD, Python, and Blender, then delivere
 - **Email:** [youssef.zuaiter2005@gmail.com](mailto:youssef.zuaiter2005@gmail.com)
 - **LinkedIn:** [linkedin.com/in/youssef-zuaiter](https://www.linkedin.com/in/youssef-zuaiter/)
 - **Portfolio:** coming soon
+
