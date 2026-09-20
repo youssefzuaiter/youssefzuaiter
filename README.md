@@ -103,7 +103,14 @@ Completed applied training in Excel, AutoCAD, Python, and Blender, then delivere
 - **LinkedIn:** [linkedin.com/in/youssef-zuaiter](https://www.linkedin.com/in/youssef-zuaiter/)
 - **Portfolio:** coming soon
 
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefzuaiter&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefzuaiter&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="150" alt="GitHub Streak" />
+  <p><code>AI & SYSTEMS ARCHITECTURE • OPEN TO NEW OPPORTUNITIES</code></p>
+  <a href="https://linkedin.com/in/youssef-zuaiter">
+    <img src="https://img.shields.io/badge/CONNECT-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="mailto:youssef.zuaiter2005@gmail.com">
+    <img src="https://img.shields.io/badge/INQUIRE-0d1117?style=flat-square&logo=gmail&logoColor=ffffff" alt="Send Email"/>
+  </a>
 </div>
