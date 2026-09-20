@@ -105,12 +105,6 @@ Completed applied training in Excel, AutoCAD, Python, and Blender, then delivere
 
 ---
 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefzuaiter&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" width="100%" alt="Contribution Telemetry" />
-</p>
-
-
 <div align="center">
   <p><code>AI & SYSTEMS ARCHITECTURE • OPEN TO NEW OPPORTUNITIES</code></p>
   <a href="https://linkedin.com/in/youssef-zuaiter">
