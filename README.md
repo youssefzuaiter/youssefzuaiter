@@ -35,6 +35,111 @@ AI Engineering student at Bahçeşehir University, based between Turkey and Isra
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 620" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .line { stroke: #ffffff; stroke-width: 1; opacity: 0.4; stroke-dasharray: 4 4; }
+      .box { fill: #0d1117; stroke: #ffffff; stroke-width: 1; rx: 4px; transition: 0.3s; }
+      .box-center { fill: #0d1117; stroke: #ffffff; stroke-width: 2; rx: 6px; }
+      .title { font-family: 'JetBrains Mono', 'SF Mono', monospace; font-size: 13px; font-weight: bold; fill: #ffffff; letter-spacing: 0.5px; }
+      .sub { font-family: 'JetBrains Mono', 'SF Mono', monospace; font-size: 10px; fill: #8b949e; }
+      .meta { font-family: 'JetBrains Mono', 'SF Mono', monospace; font-size: 10px; fill: #8b949e; letter-spacing: 1px; }
+      .node:hover .box { stroke-width: 2; opacity: 1; fill: #161b22; cursor: pointer; }
+    </style>
+  </defs>
+
+  <!-- Canvas Background -->
+  <rect width="1000" height="620" class="bg"/>
+
+  <!-- Schematic Meta Headers -->
+  <text x="40" y="45" class="meta">SYSTEM MAP — EVERYTHING FROM ONE PIPELINE</text>
+  <text x="880" y="45" class="meta">FIG. 01</text>
+
+  <!-- Connectors from Center (500, 310) -->
+  <path d="M 500 270 L 500 130" class="line"/>
+  <path d="M 400 280 L 220 180" class="line"/>
+  <path d="M 600 280 L 780 180" class="line"/>
+  <path d="M 380 320 L 220 320" class="line"/>
+  <path d="M 620 320 L 780 320" class="line"/>
+  <path d="M 410 340 L 240 450" class="line"/>
+  <path d="M 590 340 L 760 450" class="line"/>
+
+  <!-- Central Node -->
+  <g transform="translate(380, 270)">
+    <rect width="240" height="80" class="box-center"/>
+    <text x="120" y="38" text-anchor="middle" class="title">YOUSSEF’S PROJECTS</text>
+    <text x="120" y="58" text-anchor="middle" class="sub">AI &amp; Systems Pipeline</text>
+  </g>
+
+  <!-- Node 1: NeuroLink -->
+  <a xlink:href="https://github.com/youssefzuaiter/NeuroLink" target="_blank" class="node">
+    <g transform="translate(380, 70)">
+      <rect width="240" height="60" class="box"/>
+      <text x="120" y="28" text-anchor="middle" class="title">NeuroLink</text>
+      <text x="120" y="45" text-anchor="middle" class="sub">Typing Behavioral Signature AI</text>
+    </g>
+  </a>
+
+  <!-- Node 2: Hybrid Deepfake Detection -->
+  <a xlink:href="https://github.com/youssefzuaiter/deepfake-detection" target="_blank" class="node">
+    <g transform="translate(80, 140)">
+      <rect width="260" height="60" class="box"/>
+      <text x="130" y="28" text-anchor="middle" class="title">Hybrid Deepfake Detection</text>
+      <text x="130" y="45" text-anchor="middle" class="sub">Spatial-Frequency CNN &amp; FFT</text>
+    </g>
+  </a>
+
+  <!-- Node 3: Smart Face Recognition -->
+  <a xlink:href="https://github.com/youssefzuaiter/smart-face-recognition" target="_blank" class="node">
+    <g transform="translate(660, 140)">
+      <rect width="260" height="60" class="box"/>
+      <text x="130" y="28" text-anchor="middle" class="title">Smart Face Recognition</text>
+      <text x="130" y="45" text-anchor="middle" class="sub">Arduino UNO • OpenCV • Multi-Sensor</text>
+    </g>
+  </a>
+
+  <!-- Node 4: Scalable API Orchestration -->
+  <a xlink:href="https://github.com/youssefzuaiter/api-orchestration" target="_blank" class="node">
+    <g transform="translate(80, 290)">
+      <rect width="260" height="60" class="box"/>
+      <text x="130" y="28" text-anchor="middle" class="title">API Orchestration</text>
+      <text x="130" y="45" text-anchor="middle" class="sub">Kubernetes • Flask • MongoDB Set</text>
+    </g>
+  </a>
+
+  <!-- Node 5: nexus -->
+  <a xlink:href="https://github.com/youssefzuaiter/nexus" target="_blank" class="node">
+    <g transform="translate(680, 290)">
+      <rect width="220" height="60" class="box"/>
+      <text x="110" y="28" text-anchor="middle" class="title">nexus</text>
+      <text x="110" y="45" text-anchor="middle" class="sub">Core System Module</text>
+    </g>
+  </a>
+
+  <!-- Node 6: pfw -->
+  <a xlink:href="https://github.com/youssefzuaiter/pfw" target="_blank" class="node">
+    <g transform="translate(120, 420)">
+      <rect width="220" height="60" class="box"/>
+      <text x="110" y="28" text-anchor="middle" class="title">pfw</text>
+      <text x="110" y="45" text-anchor="middle" class="sub">Tooling &amp; Framework</text>
+    </g>
+  </a>
+
+  <!-- Node 7: OttilieTuft -->
+  <a xlink:href="https://ottillietuft.com/" target="_blank" class="node">
+    <g transform="translate(660, 420)">
+      <rect width="240" height="60" class="box"/>
+      <text x="120" y="28" text-anchor="middle" class="title">OttilieTuft</text>
+      <text x="120" y="45" text-anchor="middle" class="sub">ottillietuft.com • Production</text>
+    </g>
+  </a>
+
+  <!-- Schematic Footer Legend -->
+  <text x="40" y="580" class="title">02 SYSTEM MAP</text>
+  <text x="730" y="580" class="meta">DASHED LINES — DATA IN MOTION</text>
+</svg>
+
 ## Featured Projects
 
 ### 🧠 [NeuroLink](https://github.com/youssefzuaiter/NeuroLink)
