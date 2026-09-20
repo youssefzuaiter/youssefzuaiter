@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 620" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .line { stroke: #ffffff; stroke-width: 1; opacity: 0.35; stroke-dasharray: 4 4; }
+      .box { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 4px; }
+      .box-center { fill: #161b22; stroke: #ffffff; stroke-width: 1.5; rx: 4px; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", monospace; font-size: 13px; font-weight: 600; fill: #ffffff; letter-spacing: 0.5px; }
+      .sub { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", monospace; font-size: 10px; fill: #8b949e; }
+      .meta { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", monospace; font-size: 10px; fill: #8b949e; letter-spacing: 1px; }
+      .domain { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", monospace; font-size: 9px; fill: #58a6ff; letter-spacing: 1.5px; font-weight: 600; }
+      .node:hover .box { stroke: #58a6ff; fill: #161b22; cursor: pointer; }
+      .node:hover .title { fill: #58a6ff; }
+    </style>
+  </defs>
+
+  <rect width="1000" height="620" class="bg"/>
+
+  <text x="40" y="45" class="meta">SYSTEM MAP — EVERYTHING FROM ONE PIPELINE</text>
+  <text x="910" y="45" class="meta">FIG. 01</text>
+
+  <text x="500" y="72" text-anchor="middle" class="domain">AI &amp; BEHAVIORAL</text>
+  <text x="210" y="132" text-anchor="middle" class="domain">VISION &amp; HARDWARE</text>
+  <text x="790" y="132" text-anchor="middle" class="domain">PRODUCTION &amp; WEB</text>
+  <text x="210" y="412" text-anchor="middle" class="domain">CORE INFRASTRUCTURE</text>
+  <text x="790" y="412" text-anchor="middle" class="domain">FRAMEWORKS &amp; TOOLS</text>
+
+  <path d="M 500 270 L 500 150" class="line"/>
+  <path d="M 400 280 L 220 200" class="line"/>
+  <path d="M 600 280 L 780 200" class="line"/>
+  <path d="M 380 310 L 220 320" class="line"/>
+  <path d="M 620 310 L 780 320" class="line"/>
+  <path d="M 400 340 L 220 460" class="line"/>
+  <path d="M 600 340 L 780 460" class="line"/>
+
+  <g transform="translate(380, 270)">
+    <rect width="240" height="80" class="box-center"/>
+    <text x="120" y="38" text-anchor="middle" class="title">YOUSSEF’S PROJECTS</text>
+    <text x="120" y="58" text-anchor="middle" class="sub">AI &amp; Systems Pipeline</text>
+  </g>
+
+  <a xlink:href="https://github.com/youssefzuaiter/NeuroLink" target="_blank" class="node">
+    <g transform="translate(370, 90)">
+      <rect width="260" height="60" class="box"/>
+      <text x="130" y="27" text-anchor="middle" class="title">NeuroLink</text>
+      <text x="130" y="45" text-anchor="middle" class="sub">Typing Behavioral Signature AI</text>
+    </g>
+  </a>
+
+  <a xlink:href="https://github.com/youssefzuaiter" target="_blank" class="node">
+    <g transform="translate(80, 140)">
+      <rect width="260" height="60" class="box"/>
+      <text x="130" y="27" text-anchor="middle" class="title">Hybrid Deepfake Detection</text>
+      <text x="130" y="45" text-anchor="middle" class="sub">Spatial-Frequency CNN &amp; FFT</text>
+    </g>
+  </a>
+
+  <a xlink:href="https://github.com/youssefzuaiter" target="_blank" class="node">
+    <g transform="translate(80, 260)">
+      <rect width="260" height="60" class="box"/>
+      <text x="130" y="27" text-anchor="middle" class="title">Face Recognition Access</text>
+      <text x="130" y="45" text-anchor="middle" class="sub">Arduino UNO • OpenCV • Sensors</text>
+    </g>
+  </a>
+
+  <a xlink:href="https://github.com/youssefzuaiter" target="_blank" class="node">
+    <g transform="translate(80, 430)">
+      <rect width="260" height="60" class="box"/>
+      <text x="130" y="27" text-anchor="middle" class="title">API Orchestration</text>
+      <text x="130" y="45" text-anchor="middle" class="sub">Kubernetes • Flask • MongoDB</text>
+    </g>
+  </a>
+
+  <a xlink:href="https://ottillietuft.com/" target="_blank" class="node">
+    <g transform="translate(660, 140)">
+      <rect width="240" height="60" class="box"/>
+      <text x="120" y="27" text-anchor="middle" class="title">OttilieTuft</text>
+      <text x="120" y="45" text-anchor="middle" class="sub">ottillietuft.com • Production</text>
+    </g>
+  </a>
+
+  <a xlink:href="https://github.com/youssefzuaiter/nexus" target="_blank" class="node">
+    <g transform="translate(660, 260)">
+      <rect width="240" height="60" class="box"/>
+      <text x="120" y="27" text-anchor="middle" class="title">nexus</text>
+      <text x="120" y="45" text-anchor="middle" class="sub">Core System Module</text>
+    </g>
+  </a>
+
+  <a xlink:href="https://github.com/youssefzuaiter/pfw" target="_blank" class="node">
+    <g transform="translate(660, 430)">
+      <rect width="240" height="60" class="box"/>
+      <text x="120" y="27" text-anchor="middle" class="title">pfw</text>
+      <text x="120" y="45" text-anchor="middle" class="sub">Tooling &amp; Framework</text>
+    </g>
+  </a>
+
+  <text x="40" y="585" class="title">02 SYSTEM MAP</text>
+  <text x="730" y="585" class="meta">DASHED LINES — DATA IN MOTION</text>
+</svg>
