@@ -92,4 +92,9 @@ Completed applied training in Excel, AutoCAD, Python, and Blender, then delivere
 - **LinkedIn:** [linkedin.com/in/youssef-zuaiter](https://www.linkedin.com/in/youssef-zuaiter/)
 - **Portfolio:** coming soon
 
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=youssefzuaiter&bg_color=00000000&color=ffffff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true&radius=4&custom_title=CONTRIBUTION%20TELEMETRY"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefzuaiter&bg_color=00000000&color=000000&line=0969da&point=000000&area_color=0969da&area=true&hide_border=true&radius=4&custom_title=CONTRIBUTION%20TELEMETRY" width="100%" alt="GitHub contribution telemetry"/>
+  </picture>
+</div>
