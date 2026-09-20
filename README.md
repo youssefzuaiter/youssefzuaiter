@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://github.com/youssefzuaiter">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&fontSize=54&height=90&width=890&text=%20Youssef%20Zuaiter" alt="Hello I&#39;m Youssef Zuaiter" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&fontSize=54&height=90&width=890&text=%20Youssef%20Zuaiter" />
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0d1117&fontSize=54&height=90&width=890&text=%20Youssef%20Zuaiter" alt="Youssef Zuaiter" />
+    </picture>
   </a>
 </p>
 
