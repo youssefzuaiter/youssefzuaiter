@@ -83,7 +83,7 @@ Delivered a client e-commerce platform with an integrated AI assistant, from des
 **Information Technologies Intern** — Arch of Sigma (TNC Group) · *Mar 9 – Apr 20, 2026*
 Completed applied training in Excel, AutoCAD, Python, and Blender, then delivered an integrated capstone project combining data processing/analysis, technical CAD drawing, basic Python automation, and 3D modeling.
 
----
+
 
 ## ⚙️ Certificates
 
