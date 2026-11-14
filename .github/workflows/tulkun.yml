@@ -1,0 +1,18 @@
+name: Update Tulkun
+
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+  push: { branches: [main] }
+
+permissions:
+  contents: write
+
+jobs:
+  tulkun:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: PramudithaN/git-tulkun@v1
+        with:
+          view: side     # side | dive | top
+          window: annual # annual (Jan 1 reset) | rolling (trailing 365 days)
