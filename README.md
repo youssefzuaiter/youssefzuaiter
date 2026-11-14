@@ -108,11 +108,9 @@ Completed applied training in Excel, AutoCAD, Python, and Blender, then delivere
 
 
 
-<p align="center">
-  <a href="https://github.com/PramudithaN/git-tulkun">
-    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/tulkun/tulkun.gif" width="640" alt="git-tulkun swimming" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/youssefzuaiter/youssefzuaiter/output/tulkun.gif" alt="My Git Tulkun" />
+</div>
 
 ---
 
